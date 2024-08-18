@@ -1,3 +1,5 @@
+This project does not contain the node_modules folder. To include the node_modules folder in the project, open the terminal in the project folder and type 'npm install'.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
